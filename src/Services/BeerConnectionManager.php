@@ -1,4 +1,7 @@
 <?php
+
+namespace App\Services;
+
 class BeerConnectionManager
 {
     public static function getPacket()
